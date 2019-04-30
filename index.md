@@ -10,9 +10,9 @@ Materials for a 2-day crash course in Python with a focus on data processing.
 
 [Some readings and the tl;dr takeaways to keep in mind.](./readings.html)
 
-## Setup and Installation
+## Data, Setup and Installation
 
-[Setup, Installation, checks, and how to install packages](./setup.html).
+[Getting data, Setup, Installation, checks, and how to install packages](./setup.html).
 
 ## Syllabus and Class Notes
 

@@ -2,11 +2,11 @@
 layout: default
 ---
 
-## Setup
-
 ## Downloading the data
 
 The easiest way is to go to the github page and clone the repository OR click the green "Clone or Download" button and "Download Zip".
+
+## Setup
 
 ### Python
 <a href="https://www.anaconda.com/download/">Anaconda</a>,
