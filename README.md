@@ -1,5 +1,7 @@
 The course website: https://chendaniely.github.io/pycon_2019-pandas_tutorial/
 
+Survey link: https://www.surveymonkey.com/r/SD88JLL
+
 ## Pre-readings
 
 1. [A Quick Guide to Organizing Computational Biology Projects][1]
