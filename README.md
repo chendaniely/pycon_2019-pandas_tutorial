@@ -1,3 +1,5 @@
+The course website: https://chendaniely.github.io/pycon_2019-pandas_tutorial/
+
 ## Pre-readings
 
 1. [A Quick Guide to Organizing Computational Biology Projects][1]
@@ -31,7 +33,6 @@ and below, are not).
 <li>Install Python 3 using all of the defaults for installation <em>except</em> make sure to check <strong>Make Anaconda the default Python</strong>.</li>
 </ol>
 
-<!--
 #### Mac OS X
 <a href="https://www.youtube.com/watch?v=TcSAln46u9U">Video Tutorial</a>
 <ol>
@@ -70,7 +71,6 @@ press enter to prepend Anaconda to your <code>PATH</code>
 <li>
 Close the terminal window.
 </ol>
--->
 
 ### Testing If Anaconda was installed
 
@@ -82,55 +82,6 @@ Close the terminal window.
 5. Type "jupyer notebook" to launch the notebook (this may take a while if it is the first time you are launching it)
 6. Note the URL (with the token), paste it into your browser
 7. Close the anaconda prompt when you're done
-
-### Installing Packages
-
-To install the packages needed for the class you can follow the instructions below:
-
-1. Open your Anaconda Command prompt (Windows)
-2. Run the following lines of code
-    - note that ctrl+v may not paste in windows,
-	  you can paste by pressing shift + insert,
-	  or by clicking the icon to the top left of the Anaconda Command promt then edit then paste
-
-``` bash
-conda install xlwt openpyxl feather-format seaborn statsmodels scikit-learn regex wget odo numba
-pip install lifelines pandas-datareader
-```
-
-## Syllabus
-
-- Running python
-	- Anaconda, Python, IPython, and Jupyter notebooks
-	- Spyder, nteract, Rodeo IDEs
-	- Installing packages
-	- Loading libraries, dot notation, and namespaces
-- Setting up a project template
-- Pandas basics
-	- Load, subset, slice, filter data
-	- The Pandas Series and DataFrame object
-	- Conditional and 'fancy' subsetting
-- Manually create data objects
-	- Series and DataFrame object methods
-- Saving/loading data: csv, excel, feather, odo library
-    - Connecting to databases
-- Grouped operations and plots
-- Basic plotting
-	- Parts of a matplotlib figure
-	- The Seaborn library
-- Combining datasets
-	- Contatenation
-	- Joins
-- Missing data
-- Tidying and reshaping data
-- Data types
-- Functions and applying them
-	- Testing functions
-		- asserts
-		- pytest
-- Fitting models
-	- scikitlearn
-	- statsmodels
 
 [1]: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424
 [2]: http://vita.had.co.nz/papers/tidy-data.html

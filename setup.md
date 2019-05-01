@@ -6,6 +6,8 @@ layout: default
 
 The easiest way is to go to the github page and clone the repository OR click the green "Clone or Download" button and "Download Zip".
 
+The link to the Github repostiory is on the left, or you can click here: https://github.com/chendaniely/pycon_2019-pandas_tutorial/
+
 ## Setup
 
 ### Python

@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# Python Crash Course
+# PyCon 2019 in Cleveland, Ohio | May 1-9
 
-Materials for a 2-day crash course in Python with a focus on data processing.
+"Pandas is for Everyone" tutorial.
 
 ## Readings
 
